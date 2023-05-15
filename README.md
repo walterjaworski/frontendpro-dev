@@ -1,10 +1,9 @@
 # Frontend Pro
-
 Repositório para hospedagem dos desafios do site [Frontend Pro](https://frontendpro.dev).
 
 ## Beginner
 <!-- - Newsletter Card Component -->
-- Feedback Modal Component (repositório / demo)
+- Feedback Modal Component ([repositório](https://github.com/walterjaworski/frontendpro-dev/tree/main/feedback-modal-component) / demo)
 <!-- - Profile Card Component
 - Share Content Card Component
 - SendCrypt Web3 App
