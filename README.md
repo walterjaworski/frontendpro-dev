@@ -3,7 +3,7 @@ Repositório para hospedagem dos desafios do site [Frontend Pro](https://fronten
 
 ## Beginner
 <!-- - Newsletter Card Component -->
-- Feedback Modal Component ([repositório](https://github.com/walterjaworski/frontendpro-dev/tree/main/feedback-modal-component) / demo)
+- Feedback Modal Component ([repositório](https://github.com/walterjaworski/frontendpro-dev/tree/main/feedback-modal-component) / [demo](https://feedback-modal-component-walter.netlify.app/))
 <!-- - Profile Card Component
 - Share Content Card Component
 - SendCrypt Web3 App
