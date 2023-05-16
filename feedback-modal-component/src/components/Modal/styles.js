@@ -17,10 +17,11 @@ export const Container = styled.div`
   width: 100%;
   /* max-width: 820px; */
   max-width: 660px;
-  padding: 24px;
+  padding: 32px 24px;
   background: ${({ theme }) => theme.colors.modalBackground};
   color: #fff;
   border-radius: 20px;
+  position: relative;
 `;
 
 export const Header = styled.header`
@@ -54,4 +55,14 @@ export const Footer = styled.footer`
   display: flex;
   justify-content: space-between;
   align-items: center;
+`;
+
+export const CloseButton = styled.button`
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-family: 'Inter', serif;
 `;
